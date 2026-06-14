@@ -1,0 +1,19 @@
+category,line_item,value,unit,source_or_status,notes
+Property,Total gross sq ft,3440,sq ft,PLUTO,"~860/floor x 4 floors"
+Property,Owner floor (excluded),860,sq ft,Assumption,"4th floor, owner residence"
+Property,Leasable sq ft,2580,sq ft,Assumption,"Floors 1-3"
+Occupancy,Currently occupied units,0,count,Owner,"No existing rent roll; model from market"
+Income,Max-doors leased unit (516 sf),4300,$/month,"At-market furnished, small unit",5 leased
+Income,As-is leased unit (645 sf),4500,$/month,"At-market furnished Jr 1BR",4 leased
+Income,Mid-term leased unit (645 sf),4725,$/month,"At-market + 5% premium",4 leased
+Income,Consolidated leased unit (860 sf),4800,$/month,"At-market furnished 1BR",3 leased
+Income,4th-floor 2BR + patio (OWNER),6750,$/month,"Memo only — owner-occupied, $0 in base case","Top-floor 2BR w/ patio; tracked for optionality if leased later"
+Vacancy,Vacancy - annual lease,5,%,Assumption,
+Vacancy,Vacancy - mid-term,10,%,Assumption,
+Opex,Property tax (annual),27971,$/year,DOF 2025-26,"Real cost; kept in model"
+Opex,Insurance,4500,$/year,Assumption,"Refine with quote"
+Opex,Utilities (furnished),1800,$/year/unit,Assumption,"~$150/mo/unit; scales with size"
+Opex,Maintenance,1500,$/year/unit,Assumption,"Self-performed labor"
+Opex,Furnishing amortized,2000,$/year/unit,Assumption,"~$10k/unit over 5 yrs; scales with size"
+Opex,Mid-term commission,5,%,"Furnished Finder/agency",Mid-term only
+Opex,Management,0,$/year,Assumption,"Owner-managed"

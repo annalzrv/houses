@@ -1,0 +1,21 @@
+attribute,value,source,confidence,notes
+Address,"61 Greene Ave, Brooklyn, NY 11238",Multiple,High,"Also addressed as 367 Adelphi St; Fort Greene / Clinton Hill border"
+BBL,3021210049,"PLUTO; DOB BIS; PropertyShark",High,"Borough 3 (Brooklyn), Block 2121, Lot 49"
+BIN,3059490,DOB BIS,High,
+Owner of record,ETIENNE ESTATES ON G,PLUTO,High,"Last recorded sale Sept 3 2004"
+Building class,C2 (Walk-Up Apartment 5-6 Families),"PLUTO; DOB BIS",High,
+Residential units (DOF/PLUTO),5,PLUTO unitsres,High,"Conflicts with DOB BIS — see flag"
+Residential units (DOB BIS),6,DOB BIS Property Profile,High,"Conflicts with DOF — settle against CO/I-card"
+Stories,3,PLUTO numfloors,High,
+Gross building area (sq ft),3440,PLUTO bldgarea,High,"Residential area also 3440"
+Year built,1930,"PropertyShark; DOF",Medium,"PLUTO lists 1860; both pre-1947 regardless"
+Lot frontage x depth (ft),21.5 x 70.42,PLUTO,High,
+Lot area (sq ft),1514,PLUTO,High,
+Building footprint (ft),21.5 x 40.0,PLUTO,High,
+Zoning district,R6B,"PLUTO; Compass",Medium,"Contextual residential; verify on ZoLa"
+Commercial overlay,None indicated,"PLUTO; Compass",Medium,"No C1/C2 overlay on this lot — verify on ZoLa"
+Historic district,Fort Greene Historic District (designated 1978),"LPC; Compass",Medium,"Contributing rowhouse, not individually landmarked; verify exact lot on LPC/ZoLa"
+Tax class,2 (small rental),DOF-derived,High,"Exact subclass 2A vs 2B not confirmed"
+Assessed value total (2025-26),1104300,PLUTO,Medium,"PropertyShark ~1088550; market value ~2419000"
+Annual property tax (2025-26),27971,PropertyShark (DOF-derived),Medium,"Approximate"
+Certificate of Occupancy (modern),None on record,DOB CO Open Data (empty),Medium,"Pre-1938 building; legal occupancy on established use; legacy paper CO unverified (BIS servlet down)"

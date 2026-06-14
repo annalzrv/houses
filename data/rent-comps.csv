@@ -1,0 +1,9 @@
+unit_type,lease_term,low,typical,high,modeled_value,source,confidence
+Studio ~430sf,Furnished annual,3000,3950,4800,4200,"NY Habitat; Blueground; June Homes",Medium
+Studio ~430sf,Furnished mid-term,3000,4000,4800,4410,"Blueground; June Homes",Medium
+1BR ~860sf,Furnished annual,2900,4225,5000,4800,"NY Habitat (8 comps); Blueground Clinton Hill",Medium-High
+1BR ~860sf,Furnished mid-term,2900,3850,4400,5040,"Blueground; NY Habitat; June Homes",High
+2-3BR ~1720sf duplex,Furnished annual,5650,8000,11940,11000,"333 Adelphi 3BR $11940; Blueground 2BR",Medium
+Whole triplex ~2580sf,Furnished annual,8000,11500,13800,13500,"4BR triplex $13800 (NY Habitat)",Low-Medium
+Brooklyn best-case ceiling 1BR,Furnished,4800,5300,5800,NA,"Blueground Williamsburg/DUMBO",High
+Brooklyn best-case ceiling 2BR,Furnished,6500,7000,7500,NA,"Blueground Fort Greene/DUMBO",High

@@ -1,0 +1,6 @@
+leasing_option,min_stay,legal_status,where_applicable,key_constraint,notes
+Furnished annual lease,12 months,Legal,Any unit,None material,"Baseline strategy; furnished market-or-above rent"
+Furnished mid-term (30+ day),30+ days,Legal,Any unit,"Must be 30+ days to avoid Local Law 18","Targets traveling medical, corporate, digital nomads; sidesteps STR law"
+Nightly STR (under 30 days),1+ nights,"Restricted — owner-occupied only",Owner unit only,"Local Law 18: host must reside in unit and be present; max 2 guests; OSE registration required",Only legal nightly model; no whole-unit-while-absent
+Workspace / commercial,n/a,"Not as-of-right in R6B",None as standalone,"R6B base zoning, no commercial overlay","Photo studio only as ZR 12-10 home occupation: resident-run, <=25% of unit & <=500 sqft, 1 non-resident employee max, no exterior signage"
+Artist residency / partnership programs,varies,"Legal if structured as 30+ day tenancy",Any unit,"Keep stays 30+ days; verify any program rules","Traveling personnel, company partnerships — treat as mid-term lease economically"

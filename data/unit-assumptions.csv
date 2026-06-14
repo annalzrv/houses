@@ -1,0 +1,6 @@
+config_id,config_name,total_units,owner_unit,leased_units,sqft_per_leased_unit,rent_per_leased_unit,bed_type,notes
+A,Max doors,6,"1 (4th floor)",5,516,4300,Studio,"5 leased studios in 2580 sf"
+B,As-is,5,"1 (4th floor)",4,645,4500,Jr 1BR,"4 leased units in 2580 sf"
+C,Mid-term,5,"1 (4th floor)",4,645,4725,Jr 1BR,"Same as B, 30+ day; 5% premium"
+D,Consolidated,4,"1 (4th floor)",3,860,4800,1BR,"3 leased units in 2580 sf"
+E,Hybrid,5,"1 (4th floor)",4,645,4500,"3 resi + 1 workspace","Workspace not as-of-right; illustrative"

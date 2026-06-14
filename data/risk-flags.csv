@@ -1,0 +1,11 @@
+flag,detail,severity,source,action_needed
+Partial Stop Work Order,A partial SWO exists on the property,High,DOB BIS,"Must be resolved before new permits/work; pull DOB record"
+Open DOB violations,6 open DOB violations,High,DOB BIS,"Review and cure"
+Open ECB/OATH violations,"3 open, including Work Without A Permit",High,DOB BIS,"Cert of correction needed before new permit approval"
+Class 1 hazardous violation uncertified,"Failure to certify correction; DOB civil penalties due",High,DOB BIS,"Certify correction; pay penalties"
+HPD registration failures,"Recurring Class I 'failure to file valid registration' 2015-2024",Medium,HPD Open Data,"File valid HPD annual registration"
+HPD maintenance violations,"~19 total incl. open Class A and bedbug-reporting",Medium,HPD Open Data,"Cure and reconcile open/closed"
+Unit count discrepancy,"5 (DOF) vs 6 (DOB BIS) dwelling units",Medium,"PLUTO vs DOB BIS","Settle legal count against CO / I-card before relying on config (excludes owner's 4th floor)"
+No modern Certificate of Occupancy,"Legal occupancy rests on pre-1938 established use",Medium,DOB CO Open Data,"Order BIS CofO printout / I-card to confirm legal use & unit count"
+Historic district constraint,"Exterior alterations need LPC approval (CofA/CNE)",Medium,LPC,"Adds time/cost to any exterior reconfiguration; verify lot on LPC map"
+Zoning limits commercial use,"R6B base, no overlay — no as-of-right commercial/studio",Medium,"ZoLa / ZR",See leasing-options for what is permissible

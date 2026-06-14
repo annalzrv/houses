@@ -1,0 +1,7 @@
+config_id,config_name,leased_units,strategy,gross_annual_rent,vacancy_loss,effective_gross_income,operating_expenses,net_operating_income,cap_rate_pct,rank,caveat
+A,Max doors (5 leased + owner in 2BR/patio),5,Furnished annual,258000,12900,245100,58971,186129,7.69,1,"Base: you live in 4th-floor 2BR+patio. Heavy reno capex (not in NOI); DOB Stop Work Order must clear"
+A2,Max doors (6 rented incl 2BR/patio),6,Furnished annual,339000,16950,322050,65971,256079,10.58,"upside","If you also lease the 2BR+patio at ~6750/mo. Difference vs base = your cost of living there (~70k/yr)"
+B,As-is (4 leased + owner),4,Furnished annual,216000,10800,205200,53671,151529,6.26,2,"No reno; cleanest path"
+C,Mid-term (4 leased + owner),4,Furnished mid-term,226800,22680,204120,63877,140243,5.8,3,"Still below As-is: no local rent premium, +vacancy +commission"
+D,Consolidated (3 leased + owner),3,Furnished annual,172800,8640,164160,48371,115789,4.78,4,"Fewest doors = lowest NOI of legal options"
+E,Hybrid (workspace + residential),4,Mixed,NA,NA,NA,NA,NA,"NL","Commercial not as-of-right in R6B; needs variance; not modeled"

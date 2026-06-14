@@ -1,0 +1,21 @@
+attribute,value,source,confidence,notes
+Address,"301 Washington Ave, Brooklyn, NY 11205",Multiple,High,"Clinton Hill"
+BBL,3019180004,"PLUTO; DOF",High,"Block 1918 Lot 4"
+BIN,3322405,NYC GeoSearch,High,
+Owner of record,Etienne Estates at W,PLUTO,High,"Same ownership group as 61 Greene"
+Building class,C0 (Three Families walk-up),"PLUTO; PropertyShark",High,
+Residential units,3,PLUTO,High,
+Commercial units,0,PLUTO,High,
+Stories,3,PLUTO,High,
+Gross building area (sq ft),5600,PLUTO,High,
+Year built,1880-1905,"PLUTO vs PropertyShark",Medium,"Altered 1982"
+Lot size (sq ft),4075,PLUTO,High,"28.5 x 143 ft"
+Building dimensions (ft),23 x 75,PLUTO,High,
+Tax class,1 (1-3 family),DOF,High,"Class 1 rate 19.843% FY2025-26"
+Market value (FY2025-26),5388000,DOF,High,
+Assessed total (FY2025-26),323280,DOF,High,
+Taxable value (FY2025-26),87646,DOF,High,"Transitional"
+Annual property tax (FY2025-26),17392,"DOF x rate; PropertyShark",High,"Verified two ways"
+Zoning,R6B,PLUTO,High,
+Historic district,Clinton Hill Historic District,PLUTO/LPC,High,"Exterior alterations need LPC approval"
+Last recorded sale,2004-09-03,PropertyShark,Medium,"Price not shown; pull ACRIS deed"

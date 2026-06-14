@@ -1,0 +1,6 @@
+config_id,config_name,total_units,owner_units,leased_units,sqft_per_leased_unit,strategy,feasibility_notes
+A,Max doors,6,1,5,516,Furnished annual,"Plan says '6 units all rented'; modeled owner-occupied (5 leased). All-6-rented is an upside variant. Needs reno + DOB clearance"
+B,As-is,5,1,4,645,Furnished annual,"Owner on 4th floor, other 4 leased; cleanest path"
+C,Mid-term,5,1,4,645,Furnished mid-term,"Same physical layout as B, 30+ day leases"
+D,Consolidated,4,1,3,860,Furnished annual,"Joined down to 4 units; 3 leased; fewest doors"
+E,Hybrid,5,1,4,645,Mixed,"One floor workspace (NOT as-of-right in R6B) + residential; illustrative only"

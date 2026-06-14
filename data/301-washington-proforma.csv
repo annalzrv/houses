@@ -1,0 +1,15 @@
+line_item,monthly,annual,notes
+Income — 3rd-floor 2BR furnished,6750,81000,At-market
+Income — 3rd-floor 1BR furnished,4800,57600,At-market
+Income — Owner residence (floors 1-2),0,0,Owner-occupied
+Gross leased income,11550,138600,Two leased units on 3rd floor
+Vacancy and credit loss (5%),-578,-6930,
+Effective gross income,10973,131670,
+Property tax,-1449,-17392,Verified FY2025-26
+Insurance,-333,-4000,Estimate
+Water and sewer,-292,-3500,Estimate
+Maintenance and repairs,-500,-6000,Pre-1905 building reserve
+Utilities (leased units),-300,-3600,Two furnished units
+Furnishing amortization,-417,-5000,2BR + 1BR over 5 yrs
+Total operating expenses,-3291,-39492,
+Net operating income,7682,92178,Owner lives on floors 1-2 free + this cash flow

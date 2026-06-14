@@ -1,0 +1,4 @@
+floor,unit_type,status,sqft_assumed,monthly_rent,annual_rent,notes
+1-2,Owner residence (lower duplex),Owner-occupied,3733,0,0,"Owner occupies first and second floors"
+3,Two-bedroom,Leased (furnished),1050,6750,81000,"Top floor, leasable"
+3,One-bedroom,Leased (furnished),800,4800,57600,"Top floor, leasable"
